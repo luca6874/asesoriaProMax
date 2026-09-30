@@ -119,5 +119,8 @@ public class Main{
 
             }   
         }
+
+        VentanaPrincipal waos = new VentanaPrincipal();
+        waos.setVisible(true);
     }   
 }
